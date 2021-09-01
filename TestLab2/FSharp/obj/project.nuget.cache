@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cKrOldArBK6be9A6WBRp7i+5cbhbsZ3veLxS7O/PZMd2QjOV+nkGvRDmxN1nclqxolvqYsNiBLHOB6GdO3cAw==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Unity\\TestLab2\\FSharp\\FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thyag\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
